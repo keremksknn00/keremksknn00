@@ -36,3 +36,5 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=keremksknn00&show_icons=true&locale=tr&theme=radical" alt="GitHub İstatistikleri" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremksknn00&layout=compact&locale=tr&theme=radical" alt="En Çok Kullanılan Diller" />
 </p>
+
+<img width="40%" align="center" src="https://spotify-github-profile.onrender.com/card?uid=31b5rtd2gekntlumpfz6l63ialja&theme=classic&logo=true"/>
