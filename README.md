@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Merhaba 👋 Ben Kerem
+  Hi! 👋 I'm Kerem
 </h1>
 <br>
 
