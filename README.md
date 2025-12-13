@@ -1,38 +1,28 @@
+# Hello! 👋 I'm Kerem
 
-<h1 align="center">
-  Hi! 👋 I'm Kerem
-</h1>
-<br>
+### 💻 Software Engineering Student and Developer
 
-<p align="center">
-  <a href="https://github.com/keremksknn00">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:keskinkerem264@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+I am Kerem, a 19-year-old Software Engineering student. I am currently studying at Gümüşhane University and continuously striving to enhance my coding skills.
 
 ---
 
-### 👨‍💻 About me
-Hello, I am Kerem. I am 19 years old, and I live in Trabzon. I am studying Software Engineering at Gümüşhane University. Currently, I am learning C++. If you would like to contact me privately, you can reach me via Instagram at _keremkeskn or by email.
-<br>
+### 🛠️ My Current Focus and Skills
 
-### 🚀 My using technologies
+I am currently focused on building a strong foundational knowledge in programming.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" />
-</p>
+| **Main Language** | C++ , HTML | Learning (Intensive) |
+| **Future Plan**| Python / Web Development (CSS) | Planned |
 
-<br>
+---
 
+### 🌐 Get In Touch
+
+Feel free to contact me for collaborations, project suggestions, or just a quick chat.
+
+* **Instagram (Personal)**: `_keremkeskn`
+* **Email (Professional)**: `keskinkerem264@gmail.com`
+---
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=keremksknn00&show_icons=true&locale=eng&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremksknn00&layout=compact&locale=eng&theme=radical" alt="Most using languages" />
-</p>
-
+    </p>
