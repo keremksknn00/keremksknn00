@@ -16,10 +16,7 @@
 ---
 
 ### 👨‍💻 Hakkımda
-- 🌱 C++ öğreniyorum.
-- 👯 Teknofest projelerinde işbirliği yapmak isterim.
-- 🤔 C++ hakkında yardıma ihtiyacım var 
-- 📫 Bana nasıl ulaşabilirsiniz: instagram:_keremkeskn
+Hello, I am Kerem. I am 19 years old, and I live in Trabzon. I am studying Software Engineering at Gümüşhane University. Currently, I am learning C++. If you would like to contact me privately, you can reach me via Instagram at _keremkeskn or by email.
 <br>
 
 ### 🚀 Kullandığım Teknolojiler
