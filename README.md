@@ -36,6 +36,3 @@ Hello, I am Kerem. I am 19 years old, and I live in Trabzon. I am studying Softw
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremksknn00&layout=compact&locale=tr&theme=radical" alt="En Çok Kullanılan Diller" />
 </p>
 
-### I'am Listing Now
-
-<img width="40%" align="center" src="https://spotify-github-profile.onrender.com/card?uid=31b5rtd2gekntlumpfz6l63ialja&theme=classic&logo=true"/>
