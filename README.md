@@ -15,11 +15,11 @@
 
 ---
 
-### 👨‍💻 Hakkımda
+### 👨‍💻 About me
 Hello, I am Kerem. I am 19 years old, and I live in Trabzon. I am studying Software Engineering at Gümüşhane University. Currently, I am learning C++. If you would like to contact me privately, you can reach me via Instagram at _keremkeskn or by email.
 <br>
 
-### 🚀 Kullandığım Teknolojiler
+### 🚀 My using technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
@@ -29,7 +29,7 @@ Hello, I am Kerem. I am 19 years old, and I live in Trabzon. I am studying Softw
 
 <br>
 
-### 📊 GitHub İstatistiklerim
+### 📊 My GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=keremksknn00&show_icons=true&locale=tr&theme=radical" alt="GitHub İstatistikleri" />
