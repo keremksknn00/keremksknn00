@@ -24,5 +24,8 @@ Feel free to contact me for collaborations, project suggestions, or just a quick
 ---
 ### 📊 My GitHub Stats
 
+### 📊 My GitHub Stats
+
 <p align="center">
-    </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=keremksknn00&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Kerem's GitHub Stats" />
+</p>
