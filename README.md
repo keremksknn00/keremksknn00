@@ -32,7 +32,7 @@ Hello, I am Kerem. I am 19 years old, and I live in Trabzon. I am studying Softw
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=keremksknn00&show_icons=true&locale=tr&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremksknn00&layout=compact&locale=tr&theme=radical" alt="Most using languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=keremksknn00&show_icons=true&locale=eng&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremksknn00&layout=compact&locale=eng&theme=radical" alt="Most using languages" />
 </p>
 
