@@ -26,6 +26,8 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" />
 </p>
 
 <br>
