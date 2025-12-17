@@ -1,6 +1,7 @@
 <p align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello!;I'm+Kerem+%F0%9F%91%8B;Software+Engineering+Student;at+Gumushane+University;" alt="Typing SVG" />
-</p>
+</p
+    
 
 
 ### 💻 Software Engineering Student and Developer
@@ -37,4 +38,6 @@ Feel free to contact me for collaborations, project suggestions, or just a quick
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=keremksknn00&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Kerem's GitHub Stats" />
 </p>
-    <img  align="center" width="50%" src="https://anime-counter-production.up.railway.app/@keremksknn00?theme=aot">
+<p align="center">
+    <img  align="center" width="40%" src="https://anime-counter-production.up.railway.app/@keremksknn00?theme=aot">
+    </p>
