@@ -6,7 +6,7 @@
 
 ### 💻 Software Engineering Student and Developer
 
-I am Kerem, a 19-year-old Software Engineering student. I am currently studying at Gümüşhane University and continuously striving to enhance my coding skills.
+I am Kerem, a 19-year-old Software Engineering student. I am currently studying at Gumushane University and continuously striving to enhance my coding skills.
 
 
 
